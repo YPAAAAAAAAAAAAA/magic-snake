@@ -1,0 +1,20 @@
+{
+  "id": "magic-snake",
+  "title": {
+    "en": "magic-snake",
+    "zh": "魔法蛇"
+  },
+  "intro": {
+    "en": "Twist a 24-piece prism snake into your own sculpture. Drag to orbit, tap to fold, and share a shape code.",
+    "zh": "转动二十四节棱柱魔蛇，创造自己的立体造型。拖动旋转视角，轻触折叠，用造型码分享作品。"
+  },
+  "officialFiles": [
+    "vendor/index.html",
+    "vendor/snake.css",
+    "vendor/snake.js",
+    "vendor/LICENSE.txt"
+  ],
+  "playHtml": "play.html",
+  "aspect": "phone",
+  "githubRepo": "ypaaaaaaaaaaaaa/magic-snake"
+}
